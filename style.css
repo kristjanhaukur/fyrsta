@@ -79,3 +79,13 @@ h1 {
   font-size: 1.1rem;
   color: #aaa;
 }
+
+.result.error {
+  color: #e94560;
+}
+
+.info {
+  margin-top: 0.75rem;
+  font-size: 0.8rem;
+  color: #555;
+}
